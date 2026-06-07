@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Classic keyboard-based Snake rendering to a HTML5 canvas.
+  name: neon-snake-game version: 1.0 type: Repository author: VarshuAi description: >   Classic keyboard-based Snake rendering to a HTML5 canvas. primary_tech: CSS
 primary_tech: CSS
 ```
 
